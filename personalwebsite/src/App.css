@@ -1,0 +1,39 @@
+#root {
+    padding: 2rem;
+    text-align: left;
+    vertical-align: top;
+    align-self: flex-start;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+  align-content:start;
+  color: white;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.header{
+    font-size:50pt;
+    color:white;
+}
+
+.headerSmall {
+    font-size: 20pt;
+    color: white;
+}
+
+.image {
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.parent {
+    display: flex;
+    justify-content: center;
+}
+

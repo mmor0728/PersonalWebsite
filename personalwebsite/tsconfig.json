@@ -19,6 +19,9 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
+
+    /* adding to fix error */
+    "declarationDir": "types"
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]

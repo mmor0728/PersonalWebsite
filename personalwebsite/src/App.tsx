@@ -1,9 +1,5 @@
 import './App.css'
-//import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
-import Tabs from '@mui/material/Tabs';
-import Tab from '@mui/material/Tab';
-import TabList from '@mui/lab/TabList';
-import TabPanel from '@mui/lab/TabPanel';;
+import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import portrait from "./assets/MMORPORTRAIT.jpg";
 function App() {

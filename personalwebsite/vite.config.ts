@@ -6,6 +6,6 @@ export default defineConfig({
     plugins: [react()],
     build: {
         outDir: "build",
-        mode: staging
-    }
+    },
+    mode: staging
 })
